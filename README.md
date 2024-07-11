@@ -1,2 +1,3 @@
 # Simple-Bank-Account-Management-in-JavaScript
 This JavaScript code defines a BankAccount class that models a simple bank account with functionalities for depositing and withdrawing money, checking the balance, and printing account information.
+The BankAccount class includes methods for depositing (deposit), withdrawing (withdraw), getting the current balance (getBalance), and printing the account information (printAccountInfo). An instance of BankAccount is created with initial values, and various operations are performed on this instance to demonstrate its functionality. The results are displayed on the webpage using document.write.
